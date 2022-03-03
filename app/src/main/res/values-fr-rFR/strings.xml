@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Login</string>
+    <string name="connect">Se connecter</string>
+    <string name="name">Nom</string>
+    <string name="password">Mot de passe</string>
+    <string name="newUser">Nouvel utilisateur ?</string>
+    <string name="product_s_informations">Informations sur le produit</string>
+    <string name="effective_price">Prix de base</string>
+    <string name="price_out">Prix des engagements</string>
+    <string name="add_a_new_product">Ajout d\'un nouveau produit</string>
+    <string name="this_week_s_global">"Recette de la semaine : "</string>
+    <string name="today_s_global">"Recette de la journée : "</string>
+    <string name="add_many_products">Ajouter plusieurs produits</string>
+    <string name="add_a_product">Inserer un produit</string>
+    <string name="submit">Confirmer</string>
+    <string name="sign_up">S\'enregistrer</string>
+    <string name="quantity">Quantité</string>
+    <string name="usrpassempty">Nom ou mot de passe vide</string>
+    <string name="cnctuser">Utilisateur connecté</string>
+    <string name="fillinfo">Remplir les informations</string>
+    <string name="cptincorrect">Nombre doit etre superieur a 0</string>
+    <string name="usrpassincorrect">Nom ou mot de passe incorrect</string>
+    <string name="addproducts">" produit(s) inséré(s)"</string>
+</resources>

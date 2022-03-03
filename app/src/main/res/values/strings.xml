@@ -1,3 +1,37 @@
 <resources>
-    <string name="app_name">projet</string>
+    <string name="app_name" translatable="false">E-TACOS</string>
+    <string name="login">Login</string>
+    <string name="connect">Connect</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="usrpassempty">User or password empty</string>
+    <string name="cnctuser">Connected user</string>
+    <string name="fillinfo">Fill the informations</string>
+    <string name="cptincorrect">Number must be bigger than 0</string>
+    <string name="usrpassincorrect">User or password incorrect</string>
+    <string name="addproducts"> products added</string>
+    <string name="title_activity_signup" translatable="false">SignupActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="newUser">New user ?</string>
+    <string name="submit">Submit</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="add_a_product">Insert a product</string>
+    <string name="add_many_products">Add many products</string>
+    <string name="today_s_global">"Today's global : "</string>
+    <string name="this_week_s_global">"This week's global : "</string>
+    <string name="add_a_new_product">Add a new product</string>
+    <string name="price_out">Price out</string>
+    <string name="effective_price">Effective price</string>
+    <string name="product_s_informations">Product\'s informations</string>
+    <string name="sign_up">Sign up</string>
+    <string name="quantity">Quantity</string>
 </resources>

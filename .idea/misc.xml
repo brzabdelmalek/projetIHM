@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/TRETEC/AndroidStudioProjects/projet/app/src/main/res/layout/activity_main.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/TRETEC/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.234375" />
+        <entry key="..\:/Users/TRETEC/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/e-tacos_background.xml" value="0.234375" />
+        <entry key="..\:/Users/TRETEC/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.234375" />
+        <entry key="..\:/Users/TRETEC/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_add_product.xml" value="0.25" />
+        <entry key="..\:/Users/TRETEC/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_global.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/TRETEC/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/TRETEC/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_many_selection.xml" value="0.25" />
+        <entry key="..\:/Users/TRETEC/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_sign.xml" value="0.25" />
+        <entry key="..\:/Users/TRETEC/AndroidStudioProjects/MyApplication2/app/src/main/res/mipmap-anydpi-v26/e-tacos.xml" value="0.234375" />
       </map>
     </option>
   </component>
